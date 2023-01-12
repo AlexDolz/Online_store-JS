@@ -334,6 +334,7 @@ body {
   }
   .header_row {
     margin: 0;
+    width: 97%;
   }
   .header_item {
     padding: 0 5px;
