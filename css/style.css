@@ -337,13 +337,13 @@ body {
     width: 97%;
   }
   .header_item {
-    padding: 0 5px;
+    padding: 0 7px;
     font-size: 16px;
   }
   .cart_btn {
-    font-size: 15px;
+    font-size: 12px;
     height: 50px;
-    padding: 0 13px;
+    padding: 0 11px;
   }
   .action_bar {
     flex-wrap: wrap;
@@ -373,6 +373,7 @@ body {
   }
   .paginator {
     flex-wrap: wrap;
+    margin-bottom: 50px;
   }
   .paginator_item:not(:last-child) {
     padding: 5px 14px;
