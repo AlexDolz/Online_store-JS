@@ -321,7 +321,7 @@ body {
   cursor: pointer;
 }
 
-@media (orientation: landscape) and (hover: none) and (pointer: coarse) {
+@media (orientation: landscape) and (any-pointer: coarse) {
   .cart {
     height: 235px;
     right: 4%;
